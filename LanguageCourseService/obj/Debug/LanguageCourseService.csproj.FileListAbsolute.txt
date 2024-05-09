@@ -1,0 +1,7 @@
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\bin\LanguageCourseService.dll.config
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\bin\LanguageCourseService.dll
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\bin\LanguageCourseService.pdb
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\obj\Debug\LanguageCourseService.csproj.AssemblyReference.cache
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\obj\Debug\LanguageCourseService.csproj.CoreCompileInputs.cache
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\obj\Debug\LanguageCourseService.dll
+D:\University2024\ModernProgrammingTechnologies\lab9_2\LanguageCourseService\obj\Debug\LanguageCourseService.pdb
